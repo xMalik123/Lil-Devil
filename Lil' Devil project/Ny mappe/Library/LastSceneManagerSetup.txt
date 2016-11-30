@@ -1,0 +1,8 @@
+sceneSetups:
+<<<<<<< HEAD
+- path: Assets/Lil' Devil 2.unity
+=======
+- path: Assets/Lil' Devil3.unity
+>>>>>>> 72365e166f4f7bd5dbef1dc145626b626ea869a3
+  isLoaded: 1
+  isActive: 1
